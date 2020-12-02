@@ -1,6 +1,6 @@
 # Counter GUI
 
-🔢 A basic GUI built in Java.
+🔢 A basic work session GUI built in Java.
 
 ## Usage
 
